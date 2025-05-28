@@ -83,7 +83,7 @@ Input size: 480x480 (resized with letterboxing)
 # Folder Structure
 
 PiCat/
-├── FinaleChallenge9002.py
+├── final9001.py
 ├── yolo11n.onnx
 ├── meow_song_long.mp3 #or whatever song you want to have played, just remember to replace the respective file name in the code
 ├── README.md
